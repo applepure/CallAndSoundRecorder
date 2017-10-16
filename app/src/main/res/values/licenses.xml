@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--    PRODUCT DETAILS     -->
+    <string name="license_title_fab"> AWESOME RECORDER </string>
+    <string name="license_author_fab"> AULTOON INC. </string>
+    <string name="license_content_fab">
+
+    AWESOME RECORDER IS AN MP3 RECORDER
+
+        \n\n2015
+
+        \n\nAwesome Sound recorder was an project for everyone.
+        We developed it you with admob ads.
+        and also planning to add some awesome extra features to it.
+
+        \n\nThank you for your support
+
+
+</string>
+
+
+    <!--    VERSION DETAILS     -->
+    <string name="license_title_tabs"> LATEST VERSION </string>
+    <string name="license_author_tabs"> VERSION 1.0 </string>
+    <string name="license_content_tabs"> ADDED NEW FEATURES TO APP </string>
+
+
+
+
+</resources>

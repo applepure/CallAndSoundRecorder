@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- APP NAME -->
+    <string name="app_name">Awesome Recorder</string>
+
+    <!-- ADMOB ID -->
+    <string name="banner_ad_unit_id">ca-app-pub-XXXXXXXXXX</string>
+
+    <!-- Toolbar -->
+    <string name="action_licenses">Hakkında</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="tab_title_record">Kaydet</string>
+    <string name="tab_title_saved_recordings">Kaydedilenler</string>
+
+    <!-- Toasts -->
+    <string name="toast_recording_start">Kayıt başladı</string>
+    <string name="toast_recording_finish">Şuraya kaydedildi</string>
+    <string name="toast_file_delete">%1$s silindi</string>
+    <string name="toast_file_exists"> %1$s zaten mevcut. Lütfen başka isim seçin.</string>
+
+    <!-- Notifications -->
+    <string name="notification_recording">Kaydediliyor...</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_title_delete">Silmeyi Onaylayın...</string>
+    <string name="dialog_text_delete">Bu dosyayı silmek istediğinizden emin misiniz?</string>
+    <string name="dialog_title_licenses">HAKKINDA</string>
+    <string name="dialog_title_rename">Yeniden Adlandır </string>
+    <string name="dialog_title_options">Seçenekler</string>
+
+    <string name="dialog_file_rename">Yeniden Adlandır </string>
+    <string name="dialog_file_delete">Dosyayı sil </string>
+    <string name="dialog_action_cancel">İptal</string>
+    <string name="dialog_action_ok">Tamam</string>
+    <string name="dialog_action_yes">Evet</string>
+    <string name="dialog_action_no">Hayır</string>
+
+    <string name="no_saved_recordings_message">Hiç Kayıt Yok</string>
+    <string name="pause_recording_button">Duraklar</string>
+    <string name="resume_recording_button">Devam Et</string>
+    <string name="default_file_name">Ses Kaydı</string>
+    <string name="record_prompt">Kaydetmeye başlamak için tıklayın</string>
+    <string name="record_in_progress">Kaydediliyor</string>
+
+</resources>

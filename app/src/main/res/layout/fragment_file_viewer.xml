@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragment_file_viewer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ism.awesomerecorder.fragments.FileViewerFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:id="@+id/cardtext"
+        app:cardBackgroundColor="@color/primary_text"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_gravity="center"
+
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:text="Call Records Would appear here as well"
+            android:shadowColor="@color/primary_dark"
+            android:textColor="@color/white"
+
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:layout_height="wrap_content" />
+
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
